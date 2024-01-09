@@ -10,4 +10,4 @@ NB : Un fichier db.json est disponible avec des données de test. Il est automat
 
 ## Front/Back
 
-Un fichier README.md est disponible dans chaque projet. Lisez-le attentivement avant de commencer.# examen-web3
+Un fichier README.md est disponible dans chaque projet. Lisez-le attentivement avant de commencer.
